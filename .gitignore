@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+streamlit_audio_recorder/
+.vscode/
+wav2vec2*
+__pycache__/*
+predict.py
